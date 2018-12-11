@@ -49,6 +49,11 @@ const TEST_TYPES = {
         // type set
         /^#t0104/,
         /^#t0105/,
+        // html
+        /^#th001/,
+        /^#th002/,
+        /^#th003/,
+        /^#th004/,
       ]
     },
     fn: 'compact',
@@ -88,6 +93,27 @@ const TEST_TYPES = {
         /^#t0012/,
         // iris
         /^#t0109/,
+        // html
+        /^#th001/,
+        /^#th002/,
+        /^#th003/,
+        /^#th004/,
+        /^#th005/,
+        /^#th006/,
+        /^#th007/,
+        /^#th010/,
+        /^#th011/,
+        /^#th012/,
+        /^#th013/,
+        /^#th014/,
+        /^#th015/,
+        /^#th016/,
+        /^#th017/,
+        /^#th018/,
+        /^#th019/,
+        /^#th020/,
+        /^#th021/,
+        /^#th022/,
       ]
     },
     fn: 'expand',
@@ -105,6 +131,11 @@ const TEST_TYPES = {
         /^#tli01/,
         /^#tli02/,
         /^#tli03/,
+        // html
+        /^#th001/,
+        /^#th002/,
+        /^#th003/,
+        /^#th004/,
       ]
     },
     fn: 'flatten',
@@ -185,6 +216,10 @@ const TEST_TYPES = {
         /^#tli02/,
         // blank node properties
         /^#t0118/,
+        // html
+        /^#th001/,
+        /^#th002/,
+        /^#th003/,
       ]
     },
     fn: 'toRDF',
